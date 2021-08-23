@@ -1,4 +1,4 @@
-# Vue 3 Full Course - Build 10 Apps in 10 Hours
+# Vue 3 Full Course 
 
 ## Teachnologies Used
 
@@ -16,7 +16,7 @@
 
 ## 10 Apps Build
 
-1. 🔷 DcHeros
+1. 🔷 DcHeros/just practice component and so on
    1. v-for
    2. v-bind
    3. v-model
@@ -67,8 +67,6 @@
     2. Device Camera Open
     3. Working with Canvas
 
-### Youtube Tutorial Link
 
-[YouTube Link](https://youtube.com/bitfumes)
 # vueProjectFromTutorialIsee
 # vueProjectFromTutorialIsee
