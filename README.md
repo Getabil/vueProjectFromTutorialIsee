@@ -1,6 +1,6 @@
 # Vue 3 Full Course 
 
-## Teachnologies Used
+## Teachnologies Used/vue libraries
 
 1. Tensorflow
 2. Netlify
@@ -9,11 +9,6 @@
 5. Vuex v4
 6. Firebase Authentication
 7. Firebase Real Time Database
-
-## Demo 👇
-
-[Netlify Deployed Project](https://vue3-full-course.netlify.app)
-
 ## 10 Apps Build
 
 1. 🔷 DcHeros/just practice component and so on
